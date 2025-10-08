@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/vihaan/Documents/Programming/C Programming/dslab/lab3/addition_sparse'
+relocations:     []
+...
